@@ -77,8 +77,8 @@
   &emsp;
 
  
- <a href="https://www.w3schools.com/yaml/" target="_blank"> 
-    <img alt="MY_SQL" src="![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)">
+ <a href="https://www.w3schools.com/mysql/" target="_blank"> 
+    <img alt="MY_SQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
   </a> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
