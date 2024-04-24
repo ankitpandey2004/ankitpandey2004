@@ -203,7 +203,7 @@
 	
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitpandey2004&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Ankit Pandey" /></a> </p>
 
-[![@ankitpandey2004's Holopin board](https://holopin.io/api/user/board?user=ankitpandey2004)](https://holopin.io/@ankitpandey2004)
+[![@ankitpandey2004 Holopin board](https://holopin.io/api/user/board?user=ankitpandey2004)](https://holopin.io/@ankitpandey2004)
 	
 </details>
 </br></br>
@@ -211,5 +211,5 @@
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/ankitpandey2004/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
