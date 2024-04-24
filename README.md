@@ -27,7 +27,7 @@
 <br><br>
 
 - :school: I am a `Student` at [Graphic era Hill University](https://www.gehu.ac.in/) at [BHIMTAL campus](https://bhimtal.gehu.ac.in/).
-- :trophy: HALL OF FAME AT NASA
+- :trophy: HALL OF FAME AT 'NASA'
 - :technologist: I love using 'KALI LINUX' operating system for all of my work.
 - :computer: I am a CTF player at 'Hackerrank','HackTheBox'.
 - :student: I’m currently learning `Computer Science` and `Cybersecurity`.
